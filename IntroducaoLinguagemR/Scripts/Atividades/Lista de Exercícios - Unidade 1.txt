@@ -1,0 +1,25 @@
+# Lista de Exercícios - Unidade 1 - Estrutura de dados
+
+# Configurando o diretório de trabalho
+# Essa parte é muito importante, não deixe de configurar
+# Evite acentuação e espaços nos nomes das pastas
+setwd("C:/ProfessoraJessica/IntroducaoLinguagemR/Scripts")
+getwd()
+
+# Crie um vetor A com 10 números inteiros 
+
+# Crie um vetor B com 10 números decimais
+
+# Crie uma matriz C com 2 linhas e 2 colunas preenchida com números inteiros
+
+# Crie uma lista unindo os vetores A e B, e a matriz C criados anteriormente
+
+# Imprima na tela o dataframe iris, verifique quantas dimensões existem no dataframe iris e imprima um resumo do dataset
+
+# Usando a função subset, crie um novo dataframe com o conjunto de dados do dataframe iris em que Sepal.Length > 7
+# Dica: consulte o help para aprender como usar a função subset()
+
+# Use a função filter no dataframe iris e retorne apenas valores em que Sepal.Length > 6
+# Dica: instale o pacote dplyr e consulte o help da função filter()
+
+
